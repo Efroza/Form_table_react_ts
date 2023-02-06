@@ -1,0 +1,4 @@
+The code uses one React hook that is a useState -> it is used to manage the state of the form fields (name and description) and the form data (formData).
+It also uses a functionnal component with the form page component. The component renders a form and a table. The form allows the user to input the name and description, and submit the form data.
+The table displays the list of form data and includes a delete button for each form data.
+The handleSubmit function is used to handle the form submission, and the handleDelete function is used to handle the deletion of a form from the table.
